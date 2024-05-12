@@ -2,7 +2,7 @@
 - 👀 I’m interested in o que der na telha
 - 🌱 I’m currently learning tudo de inutil da internet
 - 💞️ I’m looking to collaborate on sei lá
-- 📫 How to reach me planeta terra
+- 📫 How to reach me: planeta terra
 - 😄 Pronouns: Nós/Nosso
 - ⚡ Fun fact: Sabia que baleias explodem?
 
