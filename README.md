@@ -8,12 +8,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Luke119926&theme=onedark)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Luke119926" />
-</a>
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luke119926" />
-</a>
+![luke119926's Stats](https://github-readme-stats.vercel.app/api?username=luke119926&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  ![luke119926's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luke119926&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <!---
 Luke119926/Luke119926 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
